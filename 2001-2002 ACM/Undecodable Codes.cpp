@@ -1,5 +1,5 @@
 //
-// Author: minstradamuss
+// Author: minstradamuss (Loskutova Mariia)
 //
 
 // к сожалению, из-за неумения правильно считать время до конца контеста, 
